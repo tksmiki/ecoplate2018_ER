@@ -8,7 +8,7 @@ kmatsui@civileng.kindai.ac.jp
 List of files in SEM (ESM3.rar)
 
 sdf/list_ecoplate2.sdf
-text_file (folder)
+text_file.zip (folder): should be unzipped.
 COG_data.csv
 ecopl_comparison_EcolRes.R
 ecopl_pre_confirmation.R
